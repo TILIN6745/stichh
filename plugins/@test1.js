@@ -2,7 +2,7 @@ import db from '../src/libraries/database.js'
 
 let handler = async (m, { conn, args, text, isOwner, usedPrefix, command }) => {
     conn.advnro = conn.advnro ? conn.advnro : {}
-    if (conn.advnro[m.chat]) return m.reply(`*_< ADIVINANZA - MYSTIC >_*\n\n*TODAVIA QUEDA UNA ADIVINANZA QUE RESPONDER*`)
+    if (conn.advnro[m.chat]) return m.reply(`*_< ADIVINANZA >_*\n\n*TODAVIA QUEDA UNA ADIVINANZA QUE RESPONDER*`)
     conn.advnro[m.chat] = {
         number: (9).getRandom(),
         time: 60000,
