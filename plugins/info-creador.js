@@ -13,7 +13,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   wa.me/56928561853
   Si deseas adquirir este bot comunicate a ese número`.trim();
   const buttonMessage= {
-    'document': md,
+    'document': { url: md },
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2[0]}`,
     'fileLength': 99999999999999,
