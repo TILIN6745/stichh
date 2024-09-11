@@ -544,7 +544,7 @@
         "descargas_play_v2": {
             "texto1": [
                 "_*< DESCARGAS - PLAY v2 />*_\n\n*[ ℹ️ ] Hace falta el título del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
-                "Good Feeling - Flo Rida_\n\n*[ 💡 ] Ejemplo 2:*"
+                "Feid - Se me Olvida_\n\n*[ 💡 ] Ejemplo 2:*"
             ],
             "texto2": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
             "texto3": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
@@ -560,7 +560,7 @@
         "descargas_play": {
             "texto1": [
                 "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Hace falta el título o enlace del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
-                "Good Feeling - Flo Rida_"
+                "Feid - Se me Olvida_"
             ],
             "texto2": [
                 "_*< DESCARGAS - PLAY />*_\n\n▢ *Título:*",
