@@ -61,6 +61,7 @@ global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 global.packname = 'MichiBot';
 global.author = 'MichiBot';
 global.wm = 'MichiBot';
+global.ig = '@ceogeripium.dzn';
 global.titulowm = 'MichiBot';
 global.titulowm2 = `MichiBot`
 global.igfg = 'MichiBot';
