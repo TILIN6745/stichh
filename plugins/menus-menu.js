@@ -32,7 +32,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `${tradutor.texto1[0]}
+    const str = `MICHIBOT
 
 ${tradutor.texto1[1]} ${taguser}
 
@@ -42,7 +42,7 @@ ${tradutor.texto1[3]} ${level}
 ${tradutor.texto1[4]} ${exp}
 ${tradutor.texto1[5]} ${role}
 ${tradutor.texto1[6]} ${limit}
-${tradutor.texto1[7]} ${money}
+MichiCoins: ${money}
 ${tradutor.texto1[8]} ${joincount}
 ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
  ${readMore}
@@ -61,44 +61,34 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ${tradutor.texto1[11]}
  
   ╭───── • ◆ • ─────╮
-  ├❧ _${usedPrefix}terminosycondiciones_
   ├❧ _${usedPrefix}grupos_
   ├❧ _${usedPrefix}estado_
   ├❧ _${usedPrefix}infobot_
   ├❧ _${usedPrefix}speedtest_
   ├❧ _${usedPrefix}donar_
   ├❧ _${usedPrefix}owner_
-  ├❧ _${usedPrefix}script_
   ├❧ _${usedPrefix}reporte *<txt>*_
   ├❧ _${usedPrefix}join *<wagp_url>*_
   ├❧ _${usedPrefix}fixmsgespera_
   ├❧ _bot_ (sin prefijo)
   ╰───── • ◆ • ─────╯
 
-  ${tradutor.texto1[12]}
- 
+_*< 𝗖𝗢𝗠𝗔𝗡𝗗𝗢𝗦 𝗗𝗘 𝗙𝗙 𝗬 𝗦𝗢𝗥𝗧𝗘𝗢  />*_
+
   ╭───── • ◆ • ─────╮
-  ├❧ _${usedPrefix}serbot --code_
-  ├❧ _${usedPrefix}serbot_
-  ├❧ _${usedPrefix}deletebot_
-  ├❧ _${usedPrefix}token_
-  ├❧ _${usedPrefix}stop_
-  ├❧ _${usedPrefix}bots_
-  ├❧
-  ├❧ _${usedPrefix}enable restrict_
-  ├❧ _${usedPrefix}disable restrict_
-  ├❧ _${usedPrefix}enable autoread_
-  ├❧ _${usedPrefix}disable autoread_
-  ├❧ _${usedPrefix}enable antispam_
-  ├❧ _${usedPrefix}disable antispam_
-  ├❧ _${usedPrefix}enable anticall_
-  ├❧ _${usedPrefix}disable anticall_
-  ├❧ _${usedPrefix}enable modoia_
-  ├❧ _${usedPrefix}disable modoia_
-  ├❧ _${usedPrefix}enable audios_bot_
-  ├❧ _${usedPrefix}disable audios_bot_
-  ├❧ _${usedPrefix}enable antiprivado_
-  ├❧ _${usedPrefix}disable antiprivado_
+  ├❧ _${usedPrefix}donarsala_
+  ├❧ _${usedPrefix}3ganadores_
+  ├❧ _${usedPrefix}scrim_
+  ├❧ _${usedPrefix}4vs4_
+  ├❧ _${usedPrefix}6vs6_
+  ├❧ _${usedPrefix}8vs8_
+  ├❧ _${usedPrefix}12vs12_
+  ├❧ _${usedPrefix}16vs16_
+  ├❧ _${usedPrefix}20vs20_
+  ├❧ _${usedPrefix}24vs24_
+  ├❧ _${usedPrefix}internafem_
+  ├❧ _${usedPrefix}internamasc_
+  ├❧ _${usedPrefix}internamixta_
   ╰───── • ◆ • ─────╯
 
   ${tradutor.texto1[13]}
