@@ -7,7 +7,24 @@ const handler = async (m, { conn, args, command, usedPrefix }) => {
   const tradutor = _translate.plugins.descargas_instagram;
 
   if (!args[0])
-    throw `${tradutor.texto1} _${usedPrefix + command} https://www.instagram.com/reel/C8sWV3Nx_GZ/?igsh=MWZoeTY2cW01Nzg1bQ==`;
+    throw `6 𝐕𝐄𝐑𝐒𝐔𝐒 6
+
+𝐇𝐎𝐑𝐀𝐑𝐈𝐎
+🇵🇪 𝐏𝐄𝐑𝐔 : 
+🇦🇷 𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐀 : 
+🇨🇱 𝐂𝐇𝐈𝐋𝐄 :  
+
+🥷🏻 ┇ 
+🥷🏻 ┇  
+🥷🏻 ┇ 
+🥷🏻 ┇ 
+🥷🏻 ┇ 
+🥷🏻 ┇ 
+
+ㅤʚ 𝐒𝐔𝐏𝐋𝐄𝐍𝐓𝐄:
+🥷🏻 ┇ 
+🥷🏻 ┇
+`;
   await m.reply(global.wait);
   try {
     const img = await instagramDownload(args[0]);
