@@ -23,7 +23,7 @@ ${tradutor.texto1[1]}
 `.trim();
   }
   await conn.groupSettingUpdate(m.chat, isClose);
-  {m.reply(`${tradutor.texto1[0]}`);}
+  {m.reply(`${tradutor.texto2[0]}`);}
 };
 handler.help = ['group open / close', 'grupo abrir / cerrar'];
 handler.tags = ['group'];
