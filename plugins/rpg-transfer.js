@@ -38,7 +38,7 @@ ${tradutor.texto6[4]}`.trim();
 handler.before = async (m) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language
-  const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
+  const _translate = JSON.parse(fs.readFileSync(`./src/languages/es.json`))
   const tradutor = _translate.plugins.rpg_transfer
   
   if (m.isBaileys) return;
