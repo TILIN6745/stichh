@@ -620,7 +620,7 @@ export async function handler(chatUpdate) {
           sPromote: '',
           sDemote: '',
           antidelete: false,
-          modohorny: true,
+          modohorny: false,
           autosticker: false,
           audios: true,
           antiLink: false,
