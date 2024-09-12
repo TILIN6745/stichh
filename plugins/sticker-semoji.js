@@ -6,7 +6,7 @@ const handler = async (m, { usedPrefix, conn, args, text, command }) => {
   const datas = global;
   const idioma = datas.db.data.users[m.sender].language;
   const _translate = JSON.parse(
-    fs.readFileSync(`./src/languages/${idioma}.json`),
+    fs.readFileSync(`./src/languages/es.json`),
   );
   const tradutor = _translate.plugins.sticker_semoji;
   let [tipe, emoji] = text.includes("|") ? text.split("|") : args;
