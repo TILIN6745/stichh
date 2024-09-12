@@ -19,7 +19,6 @@ const handler = async (m, {conn, text, groupMetadata}) => {
   if (!m.isGroup) return !1;
   if (!text) throw tradutor.texto1;
   const linkThisGroup = `${link}`;
-  if (m.text.includes(linkThisGroup)) return conn.reply(m.chat, tradutor.texto2, m);
   const time = global.db.data.users[m.sender].msgwait + 300000;
   if (new Date - db.data.users[m.sender].msgwait < 300000) throw `${tradutor.texto3[0]} ${msToTime(time - new Date())} ${tradutor.texto3[1]}`;
   const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender;
