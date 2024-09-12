@@ -54,9 +54,9 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 > *📋LISTA DE MENUS📋* 
  
 ╭━━━━━ • ◆ • ━━━━━╮
-┃➺ `_${usedPrefix}menuaudios🔊_` 
-┃➺ `_${usedPrefix}menuanimes🖥️_`
-┃➺ `_${usedPrefix}glx🌠_`
+┃➺ _${usedPrefix}menuaudios🔊_
+┃➺ _${usedPrefix}menuanimes🖥️_
+┃➺ _${usedPrefix}glx🌠_
 ╰━━━━━ • ◆ • ━━━━━╯
  
 *··················································*
