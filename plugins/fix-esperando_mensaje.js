@@ -6,14 +6,14 @@ import path from 'path';
 const handler = async (m, { conn, usedPrefix }) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language
-  const _translate = JSON.parse(readFileSync(`./src/languages/${idioma}.json`))
+  const _translate = JSON.parse(readFileSync(`./src/languages/es.json`))
   const tradutor = _translate.plugins.fix_esperando_mensage
 
   if (global.conn.user.jid !== conn.user.jid) {
     return conn.sendMessage(m.chat, {text: tradutor.texto1}, {quoted: m});
   }
   const chatId = m.isGroup ? [m.chat, m.sender] : [m.sender];
-  const sessionPath = './MysticSession/';
+  const sessionPath = './MichiBot/';
   try {
     const files = await fs.readdir(sessionPath);
     let filesDeleted = 0;
