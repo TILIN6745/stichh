@@ -13,7 +13,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
   const oi = `${global.ig} ${pesan}`;
-  let teks = `*${global.etiqueta}\n${oi}\n\n*🌤️𝙈𝙚𝙣𝙘𝙞𝙤𝙣𝙚𝙨*\n`;
+  let teks = `*${global.etiqueta}*\n${oi}\n\n*🌤️𝙈𝙚𝙣𝙘𝙞𝙤𝙣𝙚𝙨*\n`;
   for (const mem of participants) {
     teks += `${global.emojietiqueta} @${mem.id.split('@')[0]}\n`;
   }
