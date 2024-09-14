@@ -10,9 +10,8 @@ const handler = async (m, { conn, args, command, usedPrefix }) => {
     throw `6 𝐕𝐄𝐑𝐒𝐔𝐒 6
 
 𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇵🇪 𝐏𝐄𝐑𝐔 : 
-🇦🇷 𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐀 : 
-🇨🇱 𝐂𝐇𝐈𝐋𝐄 :  
+🇲🇽 𝐌𝐄𝐗 : 
+🇨🇴 𝐂𝐎𝐋 : 
 
 🥷🏻 ┇ 
 🥷🏻 ┇  
