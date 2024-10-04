@@ -6,7 +6,7 @@ import moment from 'moment-timezone';
 
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `MichiBot`;
+global.authFile = `MysticSession`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
@@ -14,60 +14,27 @@ global.authFile = `MichiBot`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['56928561853', 'MichiBot', true],
-  ['527772668134', 'TruenoBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', false],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true], 
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true], 
-  ['56928561853', 'MichiBot', true],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'], 
-  ['56941827124'],  
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'], 
-  ['56941827124'], 
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'], 
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124'],
-  ['56941827124']
+  ['5214461281232', 'KeroppiBot', true],
+  ['5214461281232', 'Colaborador', true],
+  ['5214461281232', 'AntonyxT', true],
 ];
 
-global.suittag = ['56928561853'];
-global.prems = ['56928561853'];
+global.suittag = ['5214461281232'];
+global.prems = ['5214461281232'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'TruenoBot';
-global.author = 'TruenoBot';
-global.wm = 'TruenoBot';
+global.packname = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
+global.author = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
+global.wm = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
 global.idioma = 'es';
-global.ig = '@vsebas.y';
-global.etiqueta = 'ACTIVENSE CHICOS 🦊';
-global.emojietiqueta = '⚡';
-global.titulowm = 'TruenoBot';
-global.titulowm2 = `TruenoBot`
-global.igfg = 'TruenoBot';
+global.ig = '@Antony.xit1';
+global.etiqueta = 'ACTIVENSE KEROPPI BOT LES HABLA';
+global.emojietiqueta = '🍀';
+global.titulowm = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
+global.titulowm2 = `𝐊𝐄𝐑𝐎𝐏𝐏𝐈`
+global.igfg = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -87,16 +54,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nTruenoBot`;
-global.gt = 'TruenoBot';
-global.mysticbot = 'TruenoBot';
-global.channel = 'https://www.instagram.com/vsebas.y';
-global.md = 'https://www.instagram.com/vsebas.y';
-global.mysticbot = 'https://www.instagram.com/vsebas.y';
+global.wm2 = `${dia} ${fecha}\n𝐊𝐄𝐑𝐎𝐏𝐏𝐈`;
+global.gt = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
+global.mysticbot = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
+global.channel = 'https://chat.whatsapp.com/L7VhOnhSp6i4Ir6RIfo66K';
+global.md = 'https://chat.whatsapp.com/L7VhOnhSp6i4Ir6RIfo66K';
+global.mysticbot = 'https://chat.whatsapp.com/L7VhOnhSp6i4Ir6RIfo66K';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56928561853';
+global.nomorown = '5214461281232';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
