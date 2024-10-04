@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Ingresa un enlace de YouTube.*",
-            "texto2": "🤴🏻 Descarga por Richetti, GeriPium & MichiBot🤖"
+            "texto2": "🤴🏻 Descarga por Keroppi🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
@@ -858,8 +858,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "*[❗] Utiliza este comando directamente en el número principal del Bot.*",
             "texto2": "*[❗] Iniciando proceso de eliminación de todos los archivos de sesión, excepto el archivo creds.json...*",
-            "texto3": "*[❗] La carpeta MichiBot no existe o está vacía.*",
-            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta MichiBot.*",
+            "texto3": "*[❗] La carpeta MysticSession no existe o está vacía.*",
+            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta MysticSession.*",
             "texto5": [
                 "*[❗] Se eliminaron",
                 "archivos de sesión, excepto el archivo creds.json.*"
@@ -2416,8 +2416,8 @@
                 "Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por Richetti y Geripium, tu seras MichiBot.",
-            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por Richetti y Geripium, tu seras MichiBot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por Antonyy.",
+            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por Antonyy",
             "texto4": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_chatgptvoz": {
@@ -2671,7 +2671,7 @@
                 "▢ *AntiLlamada:*",
                 "▢ *ModeJadiBot:*"
             ],
-            "texto2": "MichiBot"
+            "texto2": "Keroppi"
         },
         "info_groupsofc": {
             "texto1": [
@@ -2738,7 +2738,7 @@
             "texto1": "*𝚃𝚄 𝙴𝚂𝚃𝙰𝚂 𝙷𝙾𝚁𝙽𝚈 🥵🔥*"
         },
         "maker_logos": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] ¿𝙲𝙾𝙼𝙾 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾?*\n—◉ _#logo (efecto) (texto)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo 3d-deep-sea-metal MichiBot_\n\n*[❗] 𝙲𝚄𝙰𝙽𝙳𝙾 𝙻𝙴𝚂 𝙳𝙸𝙶𝙰 𝚀𝚄𝙴 𝙷𝙰𝙲𝙴 𝙵𝙰𝙻𝚃𝙰 𝚄𝙽 𝚃𝙴𝚇𝚃𝙾 𝙴𝙻 𝚄𝚂𝙾 𝚂𝙴𝚁𝙸𝙰:*\n—◉ _#logo (efecto) (texto1|texto2)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo Wolf-Logo-Galaxy Mystic|Bot_\n\n*<𝑳𝑰𝑺𝑻𝑨 𝑫𝑬 𝑬𝑭𝑬𝑪𝑻𝑶𝑺/>*\n\n° ඬ⃟📝 #logo ",
+            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] ¿𝙲𝙾𝙼𝙾 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾?*\n—◉ _#logo (efecto) (texto)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo 3d-deep-sea-metal Keroppi_\n\n*[❗] 𝙲𝚄𝙰𝙽𝙳𝙾 𝙻𝙴𝚂 𝙳𝙸𝙶𝙰 𝚀𝚄𝙴 𝙷𝙰𝙲𝙴 𝙵𝙰𝙻𝚃𝙰 𝚄𝙽 𝚃𝙴𝚇𝚃𝙾 𝙴𝙻 𝚄𝚂𝙾 𝚂𝙴𝚁𝙸𝙰:*\n—◉ _#logo (efecto) (texto1|texto2)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo Wolf-Logo-Galaxy Mystic|Bot_\n\n*<𝑳𝑰𝑺𝑻𝑨 𝑫𝑬 𝑬𝑭𝑬𝑪𝑻𝑶𝑺/>*\n\n° ඬ⃟📝 #logo ",
             "texto2": [
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙴𝙵𝙴𝙲𝚃𝙾",
                 "𝙽𝙾 𝙴𝚂𝚃𝙰 𝙴𝙽 𝙻𝙰 𝙻𝙸𝚂𝚃𝙰 𝙳𝙴 𝙴𝙵𝙴𝙲𝚃𝙾𝚂*"
