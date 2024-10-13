@@ -21,7 +21,7 @@
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
+            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] No manden mensaje este es un bot.*"
         },
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
@@ -2671,7 +2671,7 @@
                 "▢ *AntiLlamada:*",
                 "▢ *ModeJadiBot:*"
             ],
-            "texto2": "Keroppi"
+            "texto2": "Thoru Bot"
         },
         "info_groupsofc": {
             "texto1": [
