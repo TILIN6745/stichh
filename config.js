@@ -14,27 +14,27 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5214461281232', 'KeroppiBot', true],
-  ['5214461281232', 'Colaborador', true],
-  ['5214461281232', 'AntonyxT', true],
+  ['5218134698139', 'Thoru Bot', true],
+  ['5218134698139', 'Colaborador', true],
+  ['5218134698139', 'Streaming Thoru', true],
 ];
 
-global.suittag = ['5214461281232'];
-global.prems = ['5214461281232'];
+global.suittag = ['5218134698139'];
+global.prems = ['5218134698139'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
-global.author = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
-global.wm = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
+global.packname = 'Thoru bot';
+global.author = 'Thoru bot';
+global.wm = 'Thoru bot';
 global.idioma = 'es';
-global.ig = '@Antony.xit1';
-global.etiqueta = 'ACTIVENSE KEROPPI BOT LES HABLA';
-global.emojietiqueta = '🍀';
-global.titulowm = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
-global.titulowm2 = `𝐊𝐄𝐑𝐎𝐏𝐏𝐈`
-global.igfg = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
+global.ig = 'tilin.ff.23';
+global.etiqueta = 'activate bb ponte vrg';
+global.emojietiqueta = '🩷';
+global.titulowm = 'Thoru Bot';
+global.titulowm2 = `Thoru Bot`
+global.igfg = 'Thoru Bot';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,9 +54,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐊𝐄𝐑𝐎𝐏𝐏𝐈`;
-global.gt = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
-global.mysticbot = '𝐊𝐄𝐑𝐎𝐏𝐏𝐈';
+global.wm2 = `${dia} ${fecha}\nThoru Bot`;
+global.gt = 'Thoru Bot';
+global.mysticbot = 'Thoru Bot';
 global.channel = 'https://chat.whatsapp.com/L7VhOnhSp6i4Ir6RIfo66K';
 global.md = 'https://chat.whatsapp.com/L7VhOnhSp6i4Ir6RIfo66K';
 global.mysticbot = 'https://chat.whatsapp.com/L7VhOnhSp6i4Ir6RIfo66K';
