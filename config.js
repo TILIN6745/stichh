@@ -14,27 +14,27 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5218134698139', 'Thoru Bot', true],
-  ['5218134698139', 'Colaborador', true],
-  ['5218134698139', 'Streaming Thoru', true],
+  ['5213319645111', 'Raldx Bot', true],
+  ['5213319645111', 'Colaborador', true],
+  ['5213319645111', 'esmeventas', true],
 ];
 
-global.suittag = ['5218134698139'];
-global.prems = ['5218134698139'];
+global.suittag = ['5213319645111'];
+global.prems = ['5213319645111'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'Thoru bot';
-global.author = 'Thoru bot';
-global.wm = 'Thoru bot';
+global.packname = 'Raldx-bot';
+global.author = 'Raldx-bot';
+global.wm = 'Raldx-bot';
 global.idioma = 'es';
-global.ig = 'tilin.ff.23';
-global.etiqueta = 'activate bb ponte vrg';
-global.emojietiqueta = '🩷';
-global.titulowm = 'Thoru Bot';
-global.titulowm2 = `Thoru Bot`
-global.igfg = 'Thoru Bot';
+global.ig = '@tilin.ff.23';
+global.etiqueta = 'EY TE HABLA Raldx-bot NO VEN QUE EL UNICO BOT SOY YO💓';
+global.emojietiqueta = '🦋';
+global.titulowm = 'Raldx-bot';
+global.titulowm2 = `Raldx-bot`
+global.igfg = 'Raldx-bot';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,12 +54,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThoru Bot`;
-global.gt = 'Thoru Bot';
-global.mysticbot = 'Thoru Bot';
-global.channel = 'https://chat.whatsapp.com/LGf5K7faVOELqy24V5NrPR';
-global.md = 'https://chat.whatsapp.com/LGf5K7faVOELqy24V5NrPR';
-global.mysticbot = 'https://chat.whatsapp.com/LGf5K7faVOELqy24V5NrPR';
+global.wm2 = `${dia} ${fecha}\nRaldx-bot`;
+global.gt = 'Raldx-bot';
+global.mysticbot = 'Raldx-bot';
+global.channel = 'https://chat.whatsapp.com/JcbzzZ0a3Rx8FTJxhtRHTY';
+global.md = 'https://chat.whatsapp.com/JcbzzZ0a3Rx8FTJxhtRHTY';
+global.mysticbot = 'https://chat.whatsapp.com/JcbzzZ0a3Rx8FTJxhtRHTY';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
