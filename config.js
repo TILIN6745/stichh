@@ -14,27 +14,27 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5213319645111', 'Raldx Bot', true],
-  ['5213319645111', 'Colaborador', true],
-  ['5213319645111', 'esmeventas', true],
+  ['5214794070450', '𝗦𝗧𝗜𝗖𝗛 𝗕𝗢𝗧', true],
+  ['5218336105471', 'Colaborador', true],
+  ['5214794070450', '𝗠𝗮𝗿𝘆, true],
 ];
 
-global.suittag = ['5213319645111'];
-global.prems = ['5213319645111'];
+global.suittag = ['5214794070450'];
+global.prems = ['5214794070450'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'Raldx-bot';
-global.author = 'Raldx-bot';
-global.wm = 'Raldx-bot';
+global.packname = '𝗦𝘁𝗶𝗰𝗵 𝗯𝗼𝘁 ;
+global.author = '𝘀𝘁𝗶𝗰𝗵 𝗕𝗼𝘁;
+global.wm = '𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁;
 global.idioma = 'es';
 global.ig = '@tilin.ff.23';
-global.etiqueta = 'EY TE HABLA Raldx-bot NO VEN QUE EL UNICO BOT SOY YO💓';
-global.emojietiqueta = '🦋';
-global.titulowm = 'Raldx-bot';
-global.titulowm2 = `Raldx-bot`
-global.igfg = 'Raldx-bot';
+global.etiqueta = 'EY TE HABLA STICH BOT NO VEN QUE EL UNICO BOT SOY YO💓';
+global.emojietiqueta = '💋';
+global.titulowm = '𝗦𝘁𝗶𝗰𝗵 𝗯𝗼𝘁 ';
+global.titulowm2 = `𝗦𝘁𝗶𝗰𝗵 𝗯𝗼𝘁 `
+global.igfg = '𝗦𝘁𝗶𝗰𝗵 𝗯𝗼𝘁 ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,16 +54,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nRaldx-bot`;
-global.gt = 'Raldx-bot';
+global.wm2 = `${dia} ${fecha}\n𝗦𝘁𝗶𝗰𝗵 𝗯𝗼𝘁 `;
+global.gt = '𝗦𝘁𝗶𝗰𝗵 𝗯𝗼𝘁 ';
 global.mysticbot = 'Raldx-bot';
-global.channel = 'https://chat.whatsapp.com/JcbzzZ0a3Rx8FTJxhtRHTY';
-global.md = 'https://chat.whatsapp.com/JcbzzZ0a3Rx8FTJxhtRHTY';
-global.mysticbot = 'https://chat.whatsapp.com/JcbzzZ0a3Rx8FTJxhtRHTY';
+global.channel = 'https://chat.whatsapp.com/GrGVlFfXamW3T7aqjGxIV8';
+global.md = 'https://chat.whatsapp.com/GrGVlFfXamW3T7aqjGxIV8';
+global.mysticbot = 'https://chat.whatsapp.com/GrGVlFfXamW3T7aqjGxIV8';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5214461281232';
+global.nomorown = '5214794070450';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
