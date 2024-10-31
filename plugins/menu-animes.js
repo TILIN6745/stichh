@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+eseimport fetch from 'node-fetch';
 
 
 const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems}) => {
@@ -25,7 +25,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `Thoru 𝐁𝐎𝐓
+    const str = `𝗦𝗧𝗜𝗖𝗛 𝗕𝗢𝗧
     
     ${tradutor.texto1[1]}, ${taguser}*
 
